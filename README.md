@@ -1,5 +1,4 @@
-# udemy-akka-essentials
-The official repository for the Rock the JVM! Akka Essentials with Scala course
+# The official repository for the Rock the JVM! Akka Essentials with Scala course
 
 This repository contains the code we wrote during  [Rock the JVM's Akka Essentials with Scala](https://www.udemy.com/akka-essentials) course on Udemy. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
 
