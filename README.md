@@ -1,6 +1,7 @@
-# The official repository for the Rock the JVM Akka Essentials with Scala course
+# The official repository for the Rock the JVM Akka Classic Essentials course
 
 **(for the Udemy edition, click [here](https://github.com/rockthejvm/udemy-akka-essentials))**
+
 **(for the repository of the Akka Typed course, click [here](https://github.com/rockthejvm/akka-essentials))**
 
 Powered by [Rock the JVM!](rockthejvm.com)
